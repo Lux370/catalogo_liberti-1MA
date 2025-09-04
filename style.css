@@ -32,3 +32,16 @@ h1 {
 p {
   font-size: 20px;
 }
+
+img {
+  height: 150px;
+}
+
+.categoria-videos {
+  display: flex;
+  overflow-x: auto;
+}
+
+.categoria {
+  margin-top: 20px;
+}
